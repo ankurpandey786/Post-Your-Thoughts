@@ -1,4 +1,5 @@
 # Post-Your-Thoughts
+This is an intresting  backend project in which the  various npm pakages are used like express,multer,mongoose in javascript language 
 Create an account on my app Ideaflow ,and share your thoughts .
 Change your profile picture , like and edit your post
 
